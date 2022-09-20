@@ -1,0 +1,7 @@
+Link do meu primeiro projeto em dotnet:
+
+https://github.com/amanda-pgoncalves/primeiros-passos-dotnet
+
+Alguns exercícios condicionais:
+
+https://github.com/amanda-pgoncalves/ExerciciosCondicionais
